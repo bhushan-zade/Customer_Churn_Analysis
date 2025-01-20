@@ -21,14 +21,17 @@ This Customer Churn Analysis project leverages Power BI, SQL, and machine learni
 
 
 
-**`Visit The Web App:`** https://sentiment-analysis-app-bhushan-zade.streamlit.app/
 
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/sentiment-analysis-app/blob/master/Sentiment%20Analysis.png">
 
 #
 
 
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/sentiment-analysis-app/blob/master/Sentiment%20Analysis.png">
+# **`Visit For Details:`**
 
+**`Dataset:`** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
+
+**`Visit The Web App:`** https://loan-eligibility-prediction-4ghq.streamlit.app/
 
     
  

@@ -29,9 +29,8 @@ This Customer Churn Analysis project leverages Power BI, SQL, and machine learni
 
 # **`Visit For Details:`**
 
-**`Dataset:`** https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
+**`Dataset:`** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-**`Visit The Web App:`** https://loan-eligibility-prediction-4ghq.streamlit.app/
-
+**`Project Report (PDF):`** https://drive.google.com/file/d/1J7RcIyWCHX5RACZ621sIEdc_2QZNRKL-/view
     
  

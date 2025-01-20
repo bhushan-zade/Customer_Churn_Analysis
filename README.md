@@ -21,11 +21,19 @@ This Customer Churn Analysis project leverages Power BI, SQL, and machine learni
 
 
 
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Customer_Churn_Analysis/blob/main/Churn%20Analysis-1_page-0001.jpg">
 
-<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/sentiment-analysis-app/blob/master/Sentiment%20Analysis.png">
+
 
 #
 
+
+
+
+<img align="" alt="coding" width="900" src= "https://github.com/bhushan-zade/Customer_Churn_Analysis/blob/main/Churn%20Analysis-2_page-0001.jpg">
+
+
+#
 
 # **`Visit For Details:`**
 

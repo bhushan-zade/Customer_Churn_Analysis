@@ -1,9 +1,10 @@
 
+<img src="https://img.shields.io/badge/build%20with-Power%20BI-yellow">
+<img src="https://img.shields.io/badge/-SQL-brightgreen">
+<img src="https://img.shields.io/badge/-machine%20learning-blue">
+<img src="https://img.shields.io/badge/deployed%20in-Power%20BI%20Dashboard-orange">
+<img src="https://img.shields.io/badge/domain-Customer%20Retention%20&%20Analytics-orange">
 
-<img src="https://img.shields.io/badge/build%20with-python-yellow"><img src="https://img.shields.io/badge/-machine%20learning-brightgreen">
-<img src="https://img.shields.io/badge/-natural%20language%20processing-blue">
-<img src="https://img.shields.io/badge/deployed%20in-Streamlit%20Cloud-blue">
-<img src="https://img.shields.io/badge/domain-NLP%20&%20Text%20Analysis-orange">
 
 
 
